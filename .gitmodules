@@ -2,3 +2,7 @@
 	path = binate
 	url = https://github.com/mapkts/binate
 	branch = master
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/mapkts/.cfg.git
+	branch = master
