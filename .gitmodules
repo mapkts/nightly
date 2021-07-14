@@ -6,3 +6,7 @@
 	path = dotfiles
 	url = https://github.com/mapkts/.cfg.git
 	branch = master
+[submodule "goodreads"]
+	path = goodreads
+	url = https://github.com/mapkts/goodreads.git
+	branch = master
